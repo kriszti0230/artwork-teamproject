@@ -1,0 +1,20 @@
+.artwork-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.artcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  margin-bottom: 70px;
+}
+
+.artcard-title {
+  margin: 20px 0 10px 0;
+}

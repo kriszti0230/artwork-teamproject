@@ -1,0 +1,19 @@
+.fa-arrow-left-long {
+  font-size: 30px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.loginInFavs {
+  width: 50%;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 16px;
+  background-color: #15162a;
+  color: #f8f8f8;
+  margin: auto;
+}
+
+.loginWrapper {
+  text-align: center;
+}

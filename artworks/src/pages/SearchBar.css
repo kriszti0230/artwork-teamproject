@@ -1,0 +1,32 @@
+.search-bar {
+  height: 50px;
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 20px;
+  color: #333333;
+  background-color: #e2e2e2;
+  /* background-color: transparent;
+  border: solid 2px #15162a; */
+  border-radius: 10px;
+
+  padding: 10px 20px;
+  margin: 50px auto;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding-left: 5px;
+  font-size: inherit;
+  color: inherit;
+  background-color: transparent;
+}
+
+.fa-x {
+  cursor: pointer;
+  color: #15162a;
+  margin-left: 20px;
+}
